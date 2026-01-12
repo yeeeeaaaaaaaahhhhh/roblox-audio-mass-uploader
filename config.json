@@ -1,0 +1,8 @@
+{
+    "cookie": "Cookie koy buraya knk",
+    "_aciklama": "Buraya .ROBLOSECURITY cookie koy",
+    "creator": {
+        "groupId": "",
+        "_not": "Eğer herhangi bir grupta audio yükleme yetkin varsa o grubun ID’sini buraya yaz Boş bırakırsan kendi hesabına yükler"
+    }
+}
